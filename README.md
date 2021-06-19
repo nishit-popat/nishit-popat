@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishit</h1>
-<h3 align="center">Computer Engineer, Flutter Enthusiast, And Django Beginner.
-Trying Understand software development</h3>
+<h3 align="center">Computer Engineer, Flutter Enthusiast, And Django Beginner. <br />
+Trying to Understand software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit-popat&label=Profile%20views&color=0e75b6&style=flat" alt="nishit-popat" /> </p>
 
