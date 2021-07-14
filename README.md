@@ -6,6 +6,8 @@ Trying to Understand software development</h3>
 
 - 💬 Ask me about **flutter,**
 
+- 💬 Currently learning **JavaScript**
+
 - 📫 How to reach me **nishitpopat15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
