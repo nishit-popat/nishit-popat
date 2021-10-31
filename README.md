@@ -4,8 +4,6 @@ Trying to Understand software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishit-popat&label=Profile%20views&color=0e75b6&style=flat" alt="nishit-popat" /> </p>
 
-- 💬 Ask me about **flutter,**
-
 - 💬 Currently learning **JavaScript**
 
 - 📫 How to reach me **nishitpopat15@gmail.com**
