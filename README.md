@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishit Popat</h1>
-<h3 align="center">Trying to understand Software Development</h3>
+<h3 align="center">Developing Better Softwares</h3>
 
 - 🌱 I’m currently learning **Java and Spring**
 
